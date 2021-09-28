@@ -551,3 +551,8 @@ textarea {
     justify-content: space-between;
     margin-right: 150px;
 }
+.link__github {
+    padding-top: 20px;
+    padding-left: 70px;
+    color: #3c264f;
+}
